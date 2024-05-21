@@ -18,3 +18,8 @@ Things I am Using
 - [FeHelper](https://chromewebstore.google.com/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad)
 - [Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - Theme: [All Black](https://chromewebstore.google.com/detail/all-black-full-dark-theme/mkplpffahhkjfocfbfapcemhhkgmljpn)
+
+## Multi-Platform Products
+- [TTime](https://ttime.timerecord.cn/)
+- [pixpin](https://pixpinapp.com/)
+- [parsec](https://parsec.app/downloads)
