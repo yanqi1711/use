@@ -6,6 +6,12 @@ Things I am Using
 - VS Code Settings: [yanqi17118357/vscode-settings](https://github.com/yanqi17118357/vscode-settings)
 - Fonts: [Input Mono](https://input.djr.com/)
 
+## Multi-Platform Products
+- [TTime](https://ttime.timerecord.cn/)
+- [pixpin](https://pixpinapp.com/)
+- [parsec](https://parsec.app/downloads)
+- [snipaste](https://www.snipaste.com/download.html)
+
 ## Chrome Extensions && Theme
 - [Refined GitHub](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
 - [File Icons for Github](https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
@@ -19,7 +25,3 @@ Things I am Using
 - [Grammarly](https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - Theme: [All Black](https://chromewebstore.google.com/detail/all-black-full-dark-theme/mkplpffahhkjfocfbfapcemhhkgmljpn)
 
-## Multi-Platform Products
-- [TTime](https://ttime.timerecord.cn/)
-- [pixpin](https://pixpinapp.com/)
-- [parsec](https://parsec.app/downloads)
