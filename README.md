@@ -3,7 +3,7 @@ Things I am Using
 
 ## Editor
 - Editor: [VS Code](https://code.visualstudio.com/) [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- VS Code Settings: [yanqi17118357/vscode-settings](https://github.com/yanqi17118357/vscode-settings)
+- VS Code Settings: [yanqi1711/vscode-settings](https://github.com/yanqi1711/vscode-settings)
 - Fonts: [Input Mono](https://input.djr.com/)
 
 ## Multi-Platform Products
